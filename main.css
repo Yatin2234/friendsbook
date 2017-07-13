@@ -1,7 +1,7 @@
 
   #header {
   background-color: blue;
-  height: 30px;
+  height: 20px;
 }
 /*------footer {
   margin-top:100px;
@@ -19,11 +19,7 @@
   height: 600px;
 }
 
-#main { background-color: orange; }
 
-#menu { background-color: pink; }
-
-#sidebar { background-color: yellow; }
 
 #main,
 #menu,
@@ -36,7 +32,8 @@
 }
 .white-text {
   color: white !important;
-}
+margin-left:auto;
+  }
 
 #header ul .glyphicon {
     font-size: 20px;
@@ -83,6 +80,42 @@ input{
 	.nav-pills>li>a{
 		margin-bottom:0px;
 		border-radius: 4px;
-		margin-top: 100px;
-		
+		margin-top: 150px;
+		display:inline;
 	}
+	.nav-tabs>li>a{
+	margin-left:30px;
+	padding-left:-20;
+}
+
+.tab-pane{
+	height:50px;
+}
+.btn-default{
+	margin-left:-20px;
+	
+}
+.time{
+	color: grey;
+	margin-left:5px;
+}
+.spc{
+	margin-left:-20px;
+}
+.b{
+	
+margin-left:150px;
+}
+.a{
+
+	margin-left:125px;
+}
+.lj{
+	margin-right:200px;
+}
+.xyz{
+	color:black;
+}
+.ba{
+	color:black;
+}
